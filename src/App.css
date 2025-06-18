@@ -184,7 +184,7 @@ margin-left: -150px;
 .best-img1{
   width: 160px;
   height:140px;
-  margin-top: -40px;
+
  }
 .besttitle{
   font-size: 1rem;
@@ -737,7 +737,16 @@ margin-top: 150px;
     margin: 10px 0;
     margin-left: -0px;
   }
-    
+  .button{
+    margin-left: 4px;
+  }
+    .quality{
+      margin-left: 10px;
+    }
+    .corner-subtitle{
+      width: 95%;
+      text-align: center;
+    }
    .marbalimg{
     height: 30vh;
    }
